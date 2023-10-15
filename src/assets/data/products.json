@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "image": "j1.jpg",
+    "title": "Anker joysticks",
+    "desc": "Wireless joysticks",
+    "price":100
+  },
+  {
+    "id": "2",
+    "image": "j2.jpg",
+    "title": "Sony MDRZX110NC",
+    "desc": "Wireless joystick Cable, Black",
+    "price":76
+  },
+  {
+    "id": "3",
+    "image": "j3.jpg",
+    "title": "Bose joysticks",
+    "desc": "Wireless joystick Black",
+    "price": 89
+  },
+  {
+    "id": "4",
+    "image": "j4.jpg",
+    "title": "iJoy Matte",
+    "desc": " Premium Wireless joystick",
+    "price": 65
+  },
+  {
+    "id": "5",
+    "image": "j5.jpg",
+    "title": "joysticks",
+    "desc": "Wireless joystick",
+    "price": 70
+  },
+  {
+    "id": "6",
+    "image": "j6.jpg",
+    "title": "Sony PSP",
+    "desc": "Wireless joystick",
+    "price": 99
+  },
+  {
+    "id": "7",
+    "image": "j7.jpg",
+    "title": "Sony ABC",
+    "desc": "Wireless joystick",
+    "price": 125 
+  },
+  {
+    "id": "8",
+    "image": "j8.jpg",
+    "title": "Sony ABC",
+    "desc": "Wireless joystick",
+    "price": 189
+  }
+]
